@@ -2,11 +2,11 @@
 
 API de agendamentos veterinários para o Projeto Prático 1 de Engenharia de Software II, Partes 1 e 2.
 
-**Dupla** · Davi Dutra Satler e Willian Valadares Ramos Júnior.
+Dupla- Davi Dutra Satler e Willian Valadares Ramos Júnior.
+Professor: Ryan Freitas
 
-[Repositório no GitHub](https://github.com/DaviSatler/AgendaVet)
+https://github.com/DaviSatler/AgendaVet-Entrega-EngSoftwareII
 
-Esta versão é uma referência técnica. A avaliação da disciplina exige desenvolvimento e registros próprios da dupla em laboratório. Veja [a relação com os roteiros](CHECKLIST.md).
 
 ## Executar
 
@@ -85,7 +85,7 @@ curl http://localhost:3000/consultas
 
 Um container recém-iniciado responde com HTTP 200 e a lista vazia `[]`. A imagem usa `node:20-alpine`, instala pelo lockfile, compila TypeScript e executa `dist/index.js`.
 
-## Verificação em 24 de novembro de 2026
+## Verificação 
 
 | Verificação | Resultado |
 |---|---|
