@@ -1,0 +1,26 @@
+AgendaVet - Projeto Prático 1 de Engenharia de Software II do professor Ryan Freitas - Partes 1 e 2 do projeto
+Alunos: Davi Dutra Satler e Willian Valadares Ramos Júnior
+Período: 6°
+
+OS ARQUIVOS DA ENTREGA
+As duas folhas de bordo e suas respostas estão nos documentos Word.
+A pasta agendavet contém o código da tag v1.0 e o README com os comandos de execução.
+As evidências dos testes, cobertura e Docker estão em agendavet/evidencias.
+O arquivo Demonstracao-Parte-1.txt registra três agendamentos executados na versão da Parte 1.
+
+OS REPOSITÓRIO E VERSÕES
+Repositório público: https://github.com/DaviSatler/AgendaVet
+Versão final: https://github.com/DaviSatler/AgendaVet/tree/v1.0
+Demonstração da Parte 1: https://github.com/DaviSatler/AgendaVet/tree/parte-1
+Commit da versão final: 0c870f94763dd110c1c6c8d7d877512c8e21bae3
+
+PULL REQUESTS MESCLADOS NA MAIN: links abaixo
+Domínio e regras de preço: https://github.com/DaviSatler/AgendaVet/pull/1
+Padrões de projeto e demonstração: https://github.com/DaviSatler/AgendaVet/pull/2
+API, testes e Docker: https://github.com/DaviSatler/AgendaVet/pull/3
+Extensão BANHO_TOSA: https://github.com/DaviSatler/AgendaVet/commit/416c39d7e1cdc273a781de5919109522242edf5f
+
+A VALIDAÇÃO TÉCNICA
+49 testes Jest aprovados. Cobertura de 100% de ramificações em src/pricing e src/facade.
+API executada em Docker na porta 3000. GET /consultas retornou HTTP 200.
+
